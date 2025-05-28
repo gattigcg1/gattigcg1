@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the system event log size must be configured to 32768 KB or greater. 
+    This PowerShell script ensures that the Windows 10 must be configured to prevent certificate error overrides in Microsoft Edge.
 
 .NOTES
     Author          : Giancarlo Gatti
