@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the system event log size must be configured to 32768 KB or greater. 
+    This PowerShell script ensures that the local drives must be prevented from sharing with Remote Desktop Session Hosts.
 
 .NOTES
     Author          : Giancarlo Gatti
