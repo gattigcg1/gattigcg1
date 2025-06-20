@@ -12,7 +12,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Linux, Exfiltration and Escalation Of Privilege Lab)](https://github.com/gattigcg1/linux-exfiltration-escalation-of-privilege-lab)**
-- 
 <hr/>
 
 ## 🤳 Connect With Me
